@@ -1,0 +1,6 @@
+# Umfassende Z13-Suche — alle Leerzeichen-Hypothesen
+# Gesamt: 3 Kandidaten
+
+    1. IMOGENE REVOIR                  no-space  score=0.00842
+    2. IMOGENE DEVOID                  no-space  score=0.00842
+    3. CHASTITY TRACY                  no-space  score=0.00284

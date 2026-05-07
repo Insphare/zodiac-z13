@@ -1,0 +1,18 @@
+Z13 Namen-SA Ergebnisse
+
+  1. 'HACORER RICH '  score=-116.0
+     {'A': 'H', 'E': 'A', 'N': 'C', 'z': 'O', '0': 'R', 'K': 'E', 'M': ' ', '[': 'I'}
+  2. 'STERANA ALES '  score=-120.3
+     {'A': 'S', 'E': 'T', 'N': 'E', 'z': 'R', '0': 'A', 'K': 'N', 'M': ' ', '[': 'L'}
+  3. 'GANELIL LONG '  score=-120.4
+     {'A': 'G', 'E': 'A', 'N': 'N', 'z': 'E', '0': 'L', 'K': 'I', 'M': ' ', '[': 'O'}
+  4. 'ERNOLIL LANE '  score=-121.7
+     {'A': 'E', 'E': 'R', 'N': 'N', 'z': 'O', '0': 'L', 'K': 'I', 'M': ' ', '[': 'A'}
+  5. 'STERALA ANES '  score=-122.2
+     {'A': 'S', 'E': 'T', 'N': 'E', 'z': 'R', '0': 'A', 'K': 'L', 'M': ' ', '[': 'N'}
+  6. 'STERAMA ALES '  score=-123.1
+     {'A': 'S', 'E': 'T', 'N': 'E', 'z': 'R', '0': 'A', 'K': 'M', 'M': ' ', '[': 'L'}
+  7. 'GANORER RING '  score=-123.6
+     {'A': 'G', 'E': 'A', 'N': 'N', 'z': 'O', '0': 'R', 'K': 'E', 'M': ' ', '[': 'I'}
+  8. 'STERANA ADES '  score=-124.8
+     {'A': 'S', 'E': 'T', 'N': 'E', 'z': 'R', '0': 'A', 'K': 'N', 'M': ' ', '[': 'D'}

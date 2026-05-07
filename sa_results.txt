@@ -1,0 +1,19 @@
+Z13 SA-Ergebnisse — 30 Läufe
+Chiffre: AENz0K0M0[NAM
+
+  1. 'WITHEREMENTWM'  score=-106.7
+     {'A': 'W', 'E': 'I', 'N': 'T', 'z': 'H', '0': 'E', 'K': 'R', 'M': 'M', '[': 'N'}
+  2. 'WITHEREYEVTWY'  score=-131.4
+     {'A': 'W', 'E': 'I', 'N': 'T', 'z': 'H', '0': 'E', 'K': 'R', 'M': 'Y', '[': 'V'}
+  3. 'WITHEREUE TWU'  score=-131.4
+     {'A': 'W', 'E': 'I', 'N': 'T', 'z': 'H', '0': 'E', 'K': 'R', 'M': 'U', '[': ' '}
+  4. 'WITHERENEZTWN'  score=-131.4
+     {'A': 'W', 'E': 'I', 'N': 'T', 'z': 'H', '0': 'E', 'K': 'R', 'M': 'N', '[': 'Z'}
+  5. 'WITHEREGECTWG'  score=-131.4
+     {'A': 'W', 'E': 'I', 'N': 'T', 'z': 'H', '0': 'E', 'K': 'R', 'M': 'G', '[': 'C'}
+  6. 'KFTHEREVENTKV'  score=-131.5
+     {'A': 'K', 'E': 'F', 'N': 'T', 'z': 'H', '0': 'E', 'K': 'R', 'M': 'V', '[': 'N'}
+  7. 'NTHEIRIKIDHNK'  score=-155.9
+     {'A': 'N', 'E': 'T', 'N': 'H', 'z': 'E', '0': 'I', 'K': 'R', 'M': 'K', '[': 'D'}
+  8. 'SREATVTNTHESN'  score=-156.0
+     {'A': 'S', 'E': 'R', 'N': 'E', 'z': 'A', '0': 'T', 'K': 'V', 'M': 'N', '[': 'H'}
