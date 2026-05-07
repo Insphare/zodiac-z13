@@ -219,7 +219,40 @@ Das ist strukturelle Robustheit, keine hypothesenabhängige Aussage.
 **Fazit:** Das Constraint-Muster (4 Gleichheitsbedingungen) ist resistent gegen alle einfachen Transformations-Modelle. Ein einfacher Substitutionschiffre ohne Leerzeichen ist die sparsamste Erklärung.
 
 ### Nächste Schritte
-- [ ] MyHeritage: Vallejo Directory 1955/57 nach KING, NEIL durchsuchen (Browser)
-- [ ] FamilySearch: Solano County 1940/1950 Census → KING, NEIL suchen
-- [ ] Ancestry: SSDI (Social Security Death Index) + California voter rolls
-- [ ] Codex mit CODEX_PROMPT_2.md befragen (neue Impulse nach allen Negativergebnissen)
+- [x] FamilySearch: California + Solano/Vallejo → kein Neil G. King gefunden (negativer Befund)
+- [x] Codex Prompt 3 erstellt + eingereicht
+- [x] GitHub Repo erstellt: github.com/Insphare/zodiac-z13
+- [x] Zenodo DOI: 10.5281/zenodo.20070159
+- [x] Email an David Oranchak (doranchak@gmail.com) gesendet
+- [x] Email an GSVB Vallejo gesendet
+
+## 2026-05-07 — Z32 Constraint-Bestätigung
+
+### Befund
+
+"ESTIMATE FOUR RADIANS AND FIVE INCHES" (Leerzeichen entfernt, exakt 32 Zeichen)
+erfüllt **alle 3 internen Z32-Constraints** unter einfacher Substitution:
+
+  C @ [0,25]: E == E ✓
+  9 @ [1,31]: S == S ✓
+  O @ [5,13]: A == A ✓
+
+Alle anderen getesteten Kandidaten (9 Phrasen + 3 Community-Lösungen mit abweichender
+Normalisierung): 0/3 Constraints erfüllt.
+
+### Koordinaten (korrigierter Kartenmaßstab)
+
+Phillips 66 Roadmap: 1 Zoll = 6.4 Meilen
+4 Radians (229.2°) + 17° Magnetdeklination = 246.2° Peilung
+5 Zoll × 6.4 mi = 32 Meilen ab Mt. Diablo
+
+**Zielpunkt: 37.6943°N, 122.4504°W → San Francisco (SFPD-Bereich)**
+
+### Bedeutung
+
+- Methodisch: Constraint-Ansatz funktioniert auch für Z32 → bestätigt unsere Z13-Methodik
+- Inhaltlich: Community-Lösung für Z32 ist strukturell konsistent (erstmals mit formalem Constraint-Check belegt)
+- Kein direkter Beweis für NEIL G. KING — Z32 und Z13 sind unabhängige Chiffren
+- Eigenständiger Originalbeitrag: Constraint-Check auf Z32 bisher nicht publiziert
+
+Skript: `z32_coordinate_test.py`
