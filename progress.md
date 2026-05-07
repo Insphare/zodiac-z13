@@ -256,3 +256,42 @@ Phillips 66 Roadmap: 1 Zoll = 6.4 Meilen
 - Eigenständiger Originalbeitrag: Constraint-Check auf Z32 bisher nicht publiziert
 
 Skript: `z32_coordinate_test.py`
+
+## 2026-05-07 — Z32 Schlüsselableitung + Chiffren-Typ
+
+### Befund
+
+Wenn PT = "ESTIMATEFOURRADIANSANDFIVEINCHES" korrekt ist, ergibt die
+Schlüsselableitung (Z32-Symbol → Klartext-Buchstabe):
+
+- Symbol-Konsistenz: ✓ (gleiches Symbol → immer gleicher Buchstabe)
+- Bijektions-Check: ✗ — 9 Buchstaben von mehreren Symbolen kodiert:
+  - 'I' ← |, T, %, E  (4 Symbole)
+  - 'A' ← O, G, F     (3 Symbole)
+  - 'E' ← C, [, W     (3 Symbole)
+  - 'N' ← X, D, L     (3 Symbole)
+  usw.
+
+→ Einfache monoalphabetische Substitution für Z32 **ausgeschlossen**
+→ Z32 ist wahrscheinlich **homophone Substitution** (wie Z408/Z340)
+
+### Kreuzcheck Z13 ↔ Z32
+
+Alle 5 gemeinsamen Symbole (A, E, M, [, z) haben in Z13 und Z32
+**verschiedene Bedeutungen** → Schlüsselsysteme vollständig unabhängig.
+
+| Symbol | Z32 → | Z13 → |
+|--------|--------|--------|
+| A | F | N |
+| E | I | E |
+| M | O | G |
+| [ | E | K |
+| z | C | L |
+
+### Schlussfolgerung
+
+- Z32: homophone Substitution, Klartext wahrscheinlich "ESTIMATE FOUR RADIANS AND FIVE INCHES"
+- Z13: einfache Substitution, Klartext NEIL [X]. G. KING
+- Beide Chiffren vollständig unabhängig — kein gemeinsamer Schlüssel
+
+Skript: `z32_key_derivation.py`
