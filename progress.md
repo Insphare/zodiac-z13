@@ -295,3 +295,32 @@ Alle 5 gemeinsamen Symbole (A, E, M, [, z) haben in Z13 und Z32
 - Beide Chiffren vollständig unabhängig — kein gemeinsamer Schlüssel
 
 Skript: `z32_key_derivation.py`
+
+## 2026-05-07 — K-Symbol Einschränkung (erste Initial)
+
+### Methode
+
+SSA-Vornamen 1925–1955 (männlich) als empirischer Prior für mittlere Initialen.
+Verbotene Buchstaben: {N, E, I, L, G, K} — bereits durch Z13 vergeben.
+
+### Ergebnis (aus SSA-Daten)
+
+| Rang | Initial | Wahrscheinlichkeit | Ring |
+|------|---------|-------------------|------|
+| 1 | J | 20.6% | Ring 1 ★ |
+| 2 | R | 17.9% | Ring 1 ★ |
+| 3 | D | 10.4% | Ring 1 ★ |
+| 4 | W | 8.2% | Ring 1 ★ |
+| 5 | C | 7.2% | Ring 1 ★ |
+| 6 | M | 5.9% | Ring 2 |
+| 7 | A | 5.0% | Ring 2 |
+| 8 | T | 4.7% | Ring 2 |
+
+Ring 1 deckt 64% aller männlichen Vornamen dieser Generation ab.
+
+### Suchreihenfolge
+
+**Ring 1:** NEIL J. G. KING / NEIL R. G. KING / NEIL D. G. KING / NEIL W. G. KING / NEIL C. G. KING
+**Ring 2:** NEIL M. G. KING / NEIL A. G. KING / NEIL T. G. KING
+
+Skript: `k_symbol_analysis.py`
