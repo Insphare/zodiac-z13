@@ -74,7 +74,7 @@ See `ZENODO_PAPER.md` for the full analysis.
 - [x] All simple transformation models falsified
 - [x] Self-reference hypothesis falsified
 - [ ] Historical verification pending (Neil G. King, Bay Area 1968–1970)
-- [ ] Zenodo DOI pending
+- [x] Zenodo DOI: [10.5281/zenodo.20070159](https://doi.org/10.5281/zenodo.20070159)
 
 ## License
 
