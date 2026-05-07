@@ -1,6 +1,6 @@
 # Structural Analysis of the Zodiac Killer's Z13 Cipher
 
-**Author:** [Name]  
+**Author:** Manuel Will  
 **Date:** 2026-05-06  
 **Repository:** [GitHub URL]  
 **Status:** Preprint — not peer reviewed  
