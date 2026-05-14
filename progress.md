@@ -246,7 +246,9 @@ Phillips 66 Roadmap: 1 Zoll = 6.4 Meilen
 4 Radians (229.2°) + 17° Magnetdeklination = 246.2° Peilung
 5 Zoll × 6.4 mi = 32 Meilen ab Mt. Diablo
 
-**Zielpunkt: 37.6943°N, 122.4504°W → San Francisco (SFPD-Bereich)**
+**Zielpunkt: 37.6943°N, 122.4504°W → San Bruno Mountain, Daly City (San Mateo County), knapp südlich der SF-Stadtgrenze**
+
+> Korrektur 2026-05-14: Frühere Notiz "San Francisco (SFPD-Bereich)" war falsch — der Punkt liegt in Daly City (eigene Stadt, eigene Polizei), nicht in San Francisco. Exakte Lage abhängig von Missweisungs-/Maßstabs-Annahme.
 
 ### Bedeutung
 
