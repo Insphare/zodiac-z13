@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" font-family="Arial, Helvetica, sans-serif">
+  <rect width="1280" height="720" fill="#0d0d14"/>
+
+  <!-- Title -->
+  <text x="640" y="56" text-anchor="middle" font-size="38" font-weight="bold" fill="#ffffff">Z13 &#8212; DIE L&#214;SUNG</text>
+  <text x="640" y="84" text-anchor="middle" font-size="16" fill="#8a8aa6">Der Code aus Zodiacs Brief vom 20. April 1970: &#187;My name is &#8212;&#171;</text>
+
+  <!-- Constraint arcs (gleiches Symbol = gleicher Klartext-Buchstabe) -->
+  <g fill="none" stroke-width="2.5">
+    <path d="M 184 172 Q 602 96 1020 172" stroke="#e05050"/>
+    <path d="M 336 172 Q 640 120 944 172" stroke="#50b0e0"/>
+    <path d="M 716 172 Q 906 140 1096 172" stroke="#a070e0"/>
+    <path d="M 488 172 Q 564 150 640 172" stroke="#f0a020"/>
+    <path d="M 640 172 Q 716 150 792 172" stroke="#f0a020"/>
+  </g>
+  <text x="170" y="120" text-anchor="end" font-size="12" fill="#e05050">A=A</text>
+  <text x="170" y="138" text-anchor="end" font-size="12" fill="#50b0e0">N=N</text>
+  <text x="170" y="156" text-anchor="end" font-size="12" fill="#f0a020">0=0=0</text>
+
+  <!-- Position numbers -->
+  <g font-size="12" fill="#5a5a72" text-anchor="middle">
+    <text x="184" y="190">0</text><text x="260" y="190">1</text><text x="336" y="190">2</text>
+    <text x="412" y="190">3</text><text x="488" y="190">4</text><text x="564" y="190">5</text>
+    <text x="640" y="190">6</text><text x="716" y="190">7</text><text x="792" y="190">8</text>
+    <text x="868" y="190">9</text><text x="944" y="190">10</text><text x="1020" y="190">11</text>
+    <text x="1096" y="190">12</text>
+  </g>
+
+  <!-- Cipher symbol boxes -->
+  <g>
+    <rect x="149" y="198" width="70" height="70" rx="6" fill="#1c1c28" stroke="#3a3a4e"/>
+    <rect x="225" y="198" width="70" height="70" rx="6" fill="#1c1c28" stroke="#3a3a4e"/>
+    <rect x="301" y="198" width="70" height="70" rx="6" fill="#1c1c28" stroke="#3a3a4e"/>
+    <rect x="377" y="198" width="70" height="70" rx="6" fill="#1c1c28" stroke="#3a3a4e"/>
+    <rect x="453" y="198" width="70" height="70" rx="6" fill="#1c1c28" stroke="#3a3a4e"/>
+    <rect x="529" y="198" width="70" height="70" rx="6" fill="#1c1c28" stroke="#3a3a4e"/>
+    <rect x="605" y="198" width="70" height="70" rx="6" fill="#1c1c28" stroke="#3a3a4e"/>
+    <rect x="681" y="198" width="70" height="70" rx="6" fill="#1c1c28" stroke="#3a3a4e"/>
+    <rect x="757" y="198" width="70" height="70" rx="6" fill="#1c1c28" stroke="#3a3a4e"/>
+    <rect x="833" y="198" width="70" height="70" rx="6" fill="#1c1c28" stroke="#3a3a4e"/>
+    <rect x="909" y="198" width="70" height="70" rx="6" fill="#1c1c28" stroke="#3a3a4e"/>
+    <rect x="985" y="198" width="70" height="70" rx="6" fill="#1c1c28" stroke="#3a3a4e"/>
+    <rect x="1061" y="198" width="70" height="70" rx="6" fill="#1c1c28" stroke="#3a3a4e"/>
+  </g>
+  <g font-size="42" font-weight="bold" text-anchor="middle" font-family="Courier New, monospace">
+    <text x="184" y="247" fill="#e05050">A</text>
+    <text x="260" y="247" fill="#cfcfe0">E</text>
+    <text x="336" y="247" fill="#50b0e0">N</text>
+    <text x="412" y="247" fill="#cfcfe0">z</text>
+    <text x="488" y="247" fill="#f0a020">0</text>
+    <text x="564" y="247" fill="#cfcfe0">K</text>
+    <text x="640" y="247" fill="#f0a020">0</text>
+    <text x="716" y="247" fill="#a070e0">M</text>
+    <text x="792" y="247" fill="#f0a020">0</text>
+    <text x="868" y="247" fill="#cfcfe0">[</text>
+    <text x="944" y="247" fill="#50b0e0">N</text>
+    <text x="1020" y="247" fill="#e05050">A</text>
+    <text x="1096" y="247" fill="#a070e0">M</text>
+  </g>
+
+  <!-- Arrow -->
+  <text x="640" y="312" text-anchor="middle" font-size="15" fill="#8a8aa6">&#8595;&#160;&#160;bijektive Substitution &#8212; 8 Symbole auf 8 verschiedene Zeichen</text>
+
+  <!-- Decoded boxes -->
+  <g>
+    <rect x="149" y="326" width="70" height="70" rx="6" fill="#16301f" stroke="#3fae6e"/>
+    <rect x="225" y="326" width="70" height="70" rx="6" fill="#16301f" stroke="#3fae6e"/>
+    <rect x="301" y="326" width="70" height="70" rx="6" fill="#16301f" stroke="#3fae6e"/>
+    <rect x="377" y="326" width="70" height="70" rx="6" fill="#16301f" stroke="#3fae6e"/>
+    <rect x="453" y="326" width="70" height="70" rx="6" fill="#14141d" stroke="#33333f"/>
+    <rect x="529" y="326" width="70" height="70" rx="6" fill="#352608" stroke="#f0a020"/>
+    <rect x="605" y="326" width="70" height="70" rx="6" fill="#14141d" stroke="#33333f"/>
+    <rect x="681" y="326" width="70" height="70" rx="6" fill="#271a3a" stroke="#a070e0"/>
+    <rect x="757" y="326" width="70" height="70" rx="6" fill="#14141d" stroke="#33333f"/>
+    <rect x="833" y="326" width="70" height="70" rx="6" fill="#15273a" stroke="#50b0e0"/>
+    <rect x="909" y="326" width="70" height="70" rx="6" fill="#15273a" stroke="#50b0e0"/>
+    <rect x="985" y="326" width="70" height="70" rx="6" fill="#15273a" stroke="#50b0e0"/>
+    <rect x="1061" y="326" width="70" height="70" rx="6" fill="#15273a" stroke="#50b0e0"/>
+  </g>
+  <g font-size="42" font-weight="bold" text-anchor="middle">
+    <text x="184" y="375" fill="#7fe3a6">N</text>
+    <text x="260" y="375" fill="#7fe3a6">E</text>
+    <text x="336" y="375" fill="#7fe3a6">I</text>
+    <text x="412" y="375" fill="#7fe3a6">L</text>
+    <text x="488" y="372" fill="#55556a" font-size="30">&#183;</text>
+    <text x="564" y="375" fill="#f0a020">?</text>
+    <text x="640" y="372" fill="#55556a" font-size="30">&#183;</text>
+    <text x="716" y="375" fill="#c4a4f0">G</text>
+    <text x="792" y="372" fill="#55556a" font-size="30">&#183;</text>
+    <text x="868" y="375" fill="#9fd4f5">K</text>
+    <text x="944" y="375" fill="#9fd4f5">I</text>
+    <text x="1020" y="375" fill="#9fd4f5">N</text>
+    <text x="1096" y="375" fill="#9fd4f5">G</text>
+  </g>
+  <g font-size="12" fill="#6a6a82" text-anchor="middle">
+    <text x="280" y="416">VORNAME</text>
+    <text x="564" y="416">1. INITIAL (offen)</text>
+    <text x="716" y="416">2. INITIAL</text>
+    <text x="982" y="416">NACHNAME</text>
+  </g>
+
+  <!-- Result (ohne tspan: 3 einzeln positionierte Texte) -->
+  <text x="586" y="492" text-anchor="end" font-size="58" font-weight="bold" fill="#ffffff">NEIL</text>
+  <text x="640" y="492" text-anchor="middle" font-size="58" font-weight="bold" fill="#f0a020">[?]</text>
+  <text x="680" y="492" text-anchor="start" font-size="58" font-weight="bold" fill="#ffffff">. G. KING</text>
+
+  <!-- Mapping legend (8 einzeln positionierte Texte) -->
+  <g font-size="26" font-family="Courier New, monospace" font-weight="bold" text-anchor="middle">
+    <text x="200" y="548" fill="#e05050">A&#8594;N</text>
+    <text x="326" y="548" fill="#b8b8d0">E&#8594;E</text>
+    <text x="451" y="548" fill="#50b0e0">N&#8594;I</text>
+    <text x="577" y="548" fill="#b8b8d0">z&#8594;L</text>
+    <text x="703" y="548" fill="#f0a020">0&#8594;&#183;</text>
+    <text x="829" y="548" fill="#f0a020">K&#8594;?</text>
+    <text x="954" y="548" fill="#a070e0">M&#8594;G</text>
+    <text x="1080" y="548" fill="#b8b8d0">[&#8594;K</text>
+  </g>
+  <text x="640" y="588" text-anchor="middle" font-size="15" fill="#8a8aa6">1. Initial unbestimmt &#8212; statistisch wahrscheinlichste Buchstaben:</text>
+  <text x="640" y="613" text-anchor="middle" font-size="21" font-weight="bold" fill="#f0a020">J &#160;&#183;&#160; R &#160;&#183;&#160; D &#160;&#183;&#160; W &#160;&#183;&#160; C</text>
+
+  <!-- Caveat -->
+  <line x1="240" y1="638" x2="1040" y2="638" stroke="#2a2a38"/>
+  <text x="640" y="664" text-anchor="middle" font-size="14" fill="#7a7a92">L&#246;sungsvorschlag unter strenger Bijektivit&#228;t &#8212; kein bewiesener Match.</text>
+  <text x="640" y="686" text-anchor="middle" font-size="13" fill="#5a5a72">github.com/Insphare/zodiac-z13   &#183;   Zenodo 10.5281/zenodo.20070159</text>
+</svg>
